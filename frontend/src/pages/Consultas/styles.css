@@ -1,0 +1,24 @@
+.field p {
+    font-size: 15px;
+    display: block;
+}
+
+.field {
+    padding: 15px;
+    border: 1px solid #49c2ed;
+    border-radius: 6px;
+    background-color: #F8F8F8;
+}
+
+.notas {
+    margin-top: 6rem;
+}
+
+.notas h2 {
+    margin-bottom: 3rem;
+}
+
+.notas Table {
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+}

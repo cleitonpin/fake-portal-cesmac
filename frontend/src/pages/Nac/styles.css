@@ -1,0 +1,18 @@
+#infosNAC {
+    border: 1px solid green;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#infosNAC p{
+    display: block;
+    line-height: 2.4rem;
+    font-size: 15px;
+}
+
+#infosNAC ul li {
+    list-style: none;
+    font-size: 15px;
+    line-height: 2.4rem;
+}
+

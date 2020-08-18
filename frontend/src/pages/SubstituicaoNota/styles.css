@@ -1,0 +1,12 @@
+.alert-warning {
+    border: 1px solid #faebcc;
+    background-color: #fcf8e3;
+    padding: 10px;
+    display: flex;
+}
+
+.alert-warning p {
+    margin-left: 10px;
+    font-size: 16px;
+    font-family: Poppins;
+}

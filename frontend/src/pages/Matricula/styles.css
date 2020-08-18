@@ -1,0 +1,53 @@
+.legend {
+    margin-top: 40px;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    background-color: #F0F0F0;
+}
+
+.legend h2 {
+    margin-top: 15px;
+}
+
+.names-legends {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.legend .dados-aluno {
+    margin-top: 40px;
+    padding: 30px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    background-color: #F8F8F8;
+}
+
+h4 {
+    font-family: Archivo;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.legend .dados-aluno .dados p {
+    font-size: 15px;
+}
+
+.legend .comprovante-matricula {
+    margin-top: 40px;
+    padding: 30px;
+    border: 1px solid #000;
+    background-color: #F8F8F8;
+    border-radius: 8px;
+}
+
+.legend .discip-matriculadas {
+    margin-top: 40px;
+    padding: 30px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    background-color: #F8F8F8;
+}

@@ -1,0 +1,40 @@
+.box .biblioteca .links li:hover {
+    background-color: #ffcd1c;
+    display: block;
+    border-left: 5px solid #ffcd1c;
+    text-decoration: none;
+}
+
+.box .biblioteca .links li h2 {
+    font-size: 18px;
+    color: blue;
+    
+}
+
+.box .biblioteca .links li {
+    background-color: #fff;
+    width: 600px;
+    border-bottom: 1px solid #e6e9ec;
+    border-left: 5px solid #0069ad;
+    padding: 15px 15px 15px 20px;
+    list-style: none;
+}
+
+.box .links-fontes .images img {
+    width: 10rem;
+    margin: 20px 2.7rem 10px 0;
+}
+
+.box .links-fontes .images {
+    display: flex;
+    
+}
+
+.box .links-fontes h2 {
+    margin-top: 4rem;
+}
+
+.box .biblioteca .links {
+    padding-inline-start: 40px;
+}
+

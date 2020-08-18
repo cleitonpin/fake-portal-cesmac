@@ -1,0 +1,24 @@
+.box {
+    margin-top: 40px;
+    padding: 30px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    background-color: #F8F8F8;
+    display: block !important;
+}
+
+.box p {
+    font-size: 14px;
+}
+
+
+.box h4 {
+    font-size: 20px;
+}
+
+.box .select {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}

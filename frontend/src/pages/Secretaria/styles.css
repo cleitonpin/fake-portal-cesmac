@@ -1,0 +1,9 @@
+.box-on {
+    margin-top: 40px;
+    padding: 30px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    background-color: #F8F8F8;
+
+    display: flex;
+}

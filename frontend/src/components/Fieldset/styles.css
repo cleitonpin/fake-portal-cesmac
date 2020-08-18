@@ -1,0 +1,19 @@
+fieldset {
+    padding: 15px;
+    /* border: 1px solid #49c2ed;
+    border-radius: 6px; */
+    background-color: white;
+    padding: 0;
+
+}
+
+fieldset p {
+
+    font: 400 2.4rem Poppins;
+    font-size: 24px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 4.5rem;
+}
