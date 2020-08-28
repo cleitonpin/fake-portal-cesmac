@@ -19,34 +19,18 @@ export default function Login(){
 
     return (
         <div id="container">
-            <div className="boxe">
-                    <Form onSubmit={handleSubmit} noValidate validated={validated}>
-                        <h2>Login</h2>
-                        
-                        <Form.Group controlId="formBasicEmail">
-                            <Form.Label>Matrícula</Form.Label>
-                            <Form.Control 
-                                type="text" 
-                                value={matricula} 
-                                onChange={(e) => setMatricula(e.target.value)}
-                            />
-                        </Form.Group>
+            <div className="box">
+                    <h2>Login</h2>
+                <form>
+                    
+                    <label htmlFor="login">Email</label>
+                    <input name="name" type="text"/>
+                    <br/>
 
-                        <Form.Group controlId="formBasicPassword">
-                            <Form.Label>Senha</Form.Label>
-                            <Form.Control 
-                                type="password" 
-                                value={senha} 
-                                onChange={(e) => setSenha(e.target.value)}
-                            />
-                        </Form.Group>
-                        <Form.Group controlId="formBasicCheckbox">
-                            <p><a href="">Esqueceu a senha, clique aqui!</a></p>
-                        </Form.Group>
-                        <Button variant="primary" type="submit">
-                            <span>Acessar</span>
-                        </Button>
-                    </Form>
+                    <label htmlFor="password">Password</label>
+                    <input name="psw" type="password"/>
+                
+                </form>
                     
             </div>
         </div>
