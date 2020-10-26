@@ -30,7 +30,7 @@ export default function Login() {
 
     return (
         <div id="container">
-            <div className="box">
+            <div className="boxe">
                 <h2>Matrículsa</h2>
                 <form onSubmit={handleSignIn}>
                     <label htmlFor="login">Email</label>
