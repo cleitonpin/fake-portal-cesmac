@@ -1,9 +1,9 @@
 # Clone portal CESMAC
 
 ## Exemplos
-![]('./assets/fake.png')
+![](./assets/fake.png)
 
-![]('./assets/unknown.png.png')
+![](./assets/unknown.png.png)
 
 - Tecnologias
 
